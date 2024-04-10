@@ -2,3 +2,4 @@
 venv
 airflow_venv
 .DS_Store
+.env
